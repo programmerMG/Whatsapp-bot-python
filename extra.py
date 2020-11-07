@@ -1,4 +1,5 @@
 '''
+lol
 
 This doesn't contain commands that starter should start right now.
 I would nor suggest that starter should go for it.
