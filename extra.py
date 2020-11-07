@@ -3,6 +3,12 @@
 This doesn't contain commands that starter should start right now.
 I would nor suggest that starter should go for it.
 Those who know how to work with this can use just install the extra modules needed in it
+The extra modules needed are:
+1. wikipedia
+2. google-search
+3. PyDictionary
+just install them by pip or add them to requirements.txt and use the command pip intall -r requirements.txt
+
 '''
 from flask import Flask, request
 from twilio.twiml.messaging_response import MessagingResponse
