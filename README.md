@@ -3,7 +3,9 @@
 
 A simple python bot for personal use which I like.
 
+
 I will go with absolute basics and if you want some more commands to work with, refer extra.py
+
 
 ## BOT ACCOUNT
 
@@ -71,8 +73,8 @@ The last step is to click on save.
 After clicking save your procedure is completed and it is the time to test the bot by sending messages to it
 
 
-
-
+#
+If this helps you do star it
 
 
 
