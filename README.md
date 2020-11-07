@@ -52,7 +52,7 @@ You can convert it by using ngrok which you have already installed
 
 Open one more command prompt without quiting the previous one.
 In command prompt type ngrok http 5000 (mostly it is 5000. You can type yours .It is the last 4 digit of local host url also called port number)
-![ngrok](https://i.ibb.co/N9JnpH0/ngrok.png)
+![ngrok](https://i.ibb.co/nn48Fcq/ngrokf.jpg)
 Copy the link given by it and go to the site which I told above to save for future.
 In the box (WHEN A MESSAGE COMES IN) box write that url and put /sms at back.
 ![box](https://i.ibb.co/8mQRNRk/box.png)
