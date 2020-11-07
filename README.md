@@ -3,6 +3,8 @@
 
 A simple python bot for personal use which I like.
 
+I will go with absolute basics and if you want some more commands to work with, refer extra.py
+
 ## BOT ACCOUNT
 
 Make your account here https://www.twilio.com/
