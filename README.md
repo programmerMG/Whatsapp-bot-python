@@ -44,6 +44,11 @@ You can also easily install them by opening command prompt and writing pip insta
 Download ngrok from here https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip 
 Exctract that ngrok.exe file and place it in the whatsapp-bot-python folder among other files
 
+Your directly should look like this now
+
+![directory](https://i.ibb.co/L14DSqC/dir.png)
+
+
 ## Running the code
 
 In command promt you just have to run python main.py.
