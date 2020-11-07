@@ -52,6 +52,7 @@ Open one more command prompt without quiting the previous one.
 In command prompt type ngrok http 5000 (mostly it is 5000. You can type yours .It is the last 4 digit of local host url also called port number)
 Copy the link given by it and go to the site which I told above to save for future.
 In the box (WHEN A MESSAGE COMES IN) box write that url and put /sms at back.
+![alt text](https://drive.google.com/file/d/1qv4v88R7uGXWQmrhSDz80PweAma95Dlb/view?usp=sharing)
 
 The last step is to click on save.
 After clicking save your procedure is completed and it is the time to test the bot by sending messages to it
