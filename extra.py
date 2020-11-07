@@ -7,7 +7,7 @@ The extra modules needed are:
 1. wikipedia
 2. google-search
 3. PyDictionary
-just install them by pip or add them to requirements.txt and use the command pip intall -r requirements.txt
+just install them by pip or add them to requirements.txt and use the command pip install -r requirements.txt
 
 '''
 from flask import Flask, request
