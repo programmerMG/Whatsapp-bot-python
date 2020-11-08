@@ -54,7 +54,7 @@ Your directly should look like this now
 
 ## Running the code
 
-In command promt you just have to run python main.py.
+In command promt you just have to run python main.py.(Every time you ppen the command prompt, opne it in tha same folder as of whatsapp bot)
 
 ![main.py](https://i.ibb.co/NFvjZ3t/black.png)
 
