@@ -1,7 +1,7 @@
 # Whatsapp Python Bot
 ![whatsapp](https://twilio-cms-prod.s3.amazonaws.com/images/uDU_MWBJHg-z8j5Jzymi03iLb6dQC_iUsBF1qtRxPfzyPx.width-808.jpg)
 
-A simple python bot for personal use which I like.
+A simple python bot which I like.
 
 
 I will go with absolute basics and if you want some more commands to work with, refer extra.py
@@ -73,6 +73,9 @@ In the box (WHEN A MESSAGE COMES IN) box write that url and put /sms at back.
 The last step is to click on save.
 After clicking save your procedure is completed and it is the time to test the bot by sending messages to it
 
+# NOTE
+This will run only when your pc/laptop is turned on
+To run this 24/7 refer to my second repo on which I am still working
 
 #
 IF THIS HELPS YOU DO STAR IT
