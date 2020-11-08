@@ -73,7 +73,7 @@ In the box (WHEN A MESSAGE COMES IN) box write that url and put /sms at back.
 The last step is to click on save.
 After clicking save your procedure is completed and it is the time to test the bot by sending messages to it
 
-# NOTE
+# 
 This will run only when your pc/laptop is turned on
 To run this 24/7 refer to my second repo on which I am still working
 
