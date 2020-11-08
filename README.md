@@ -3,9 +3,8 @@
 
 A simple python bot which I like.
 
-
-I will go with absolute basics and if you want some more commands to work with, refer extra.py
-
+This will run only when your pc/laptop is turned on
+To run this 24/7 refer to my second repo on which I am still working
 
 ## BOT ACCOUNT
 
@@ -74,8 +73,7 @@ The last step is to click on save.
 After clicking save your procedure is completed and it is the time to test the bot by sending messages to it
 
 # 
-This will run only when your pc/laptop is turned on
-To run this 24/7 refer to my second repo on which I am still working
+I have done absolute basics and if you want some more commands to work with, refer extra.py
 
 #
 IF THIS HELPS YOU DO STAR IT
