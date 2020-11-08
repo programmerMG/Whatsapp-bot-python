@@ -25,6 +25,7 @@ Now you have to move on to coding part
 
 
 Download this as zip folder or just use clone the repo
+
 Clone Repo:
 ```
 git clone https://github.com/pro-mitanshu/Whatsapp-bot-python.git
