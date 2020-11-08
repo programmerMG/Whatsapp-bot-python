@@ -17,7 +17,7 @@ Make your account here https://www.twilio.com/
 
 ![code and number](https://i.ibb.co/VtwSPQq/first.png)
 
-2. Send the code diplayed there on this number from your whatsapp number 
+2. Send the code displayed there on this number from your whatsapp number 
 3. Follow the further steps and when you reach the last page of the steps save the site for future steps
 
 Now you have to move on to coding part
