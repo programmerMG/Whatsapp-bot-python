@@ -58,7 +58,7 @@ In command promt you just have to run python main.py.(Every time you open the co
 
 ![main.py](https://i.ibb.co/NFvjZ3t/black.png)
 
-You will ge a local host url which only you can access.
+You will get a local host url which only you can access.
 You can convert it by using ngrok which you have already installed
 
 Open one more command prompt without quiting the previous one.
