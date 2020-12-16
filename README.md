@@ -55,6 +55,7 @@ Your directly should look like this now
 
 In command promt you just have to run python main.py.(Every time you open the command prompt, open it in that same folder as of whatsapp bot)
 
+
 ![main.py](https://i.ibb.co/NFvjZ3t/black.png)
 
 You will ge a local host url which only you can access.
