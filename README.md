@@ -53,15 +53,15 @@ Your directly should look like this now
 
 ## Running the code
 
-In command promt you just have to run python main.py.(Every time you ppen the command prompt, opne it in tha same folder as of whatsapp bot)
+In command promt you just have to run python main.py.(Every time you open the command prompt, open it in that same folder as of whatsapp bot)
 
 ![main.py](https://i.ibb.co/NFvjZ3t/black.png)
 
-You will ge a local host url which only u can access.
+You will ge a local host url which only you can access.
 You can convert it by using ngrok which you have already installed
 
 Open one more command prompt without quiting the previous one.
-In command prompt type ngrok http 5000 (mostly it is 5000. You can type yours .It is the last 4 digit of local host url also called port number)
+In command prompt type ngrok http 5000 (mostly it is 5000. It is the last 4 digit of local host url also called port number)
 ![ngrok](https://i.ibb.co/nn48Fcq/ngrokf.jpg)
 
 Copy the link given by it and go to the site which I told above to save for future.
