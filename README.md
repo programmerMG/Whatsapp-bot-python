@@ -68,7 +68,7 @@ In command prompt type ngrok http 5000 (mostly it is 5000. It is the last 4 digi
 ![ngrok](https://i.ibb.co/nn48Fcq/ngrokf.jpg)
 
 Copy the link given by it and go to the site which I told above to save for future.
-In the box (WHEN A MESSAGE COMES IN) box write that url and put /sms at back.
+In the (WHEN A MESSAGE COMES IN) box write that url and put /sms at back.
 
 ![box](https://i.ibb.co/8mQRNRk/box.png)
 
